@@ -53,7 +53,7 @@ body{
 .section1 {
     width: 100%;
     height: 700px;
-    background-image: url("/ASSET/IMAGES/kid\'s\ yoga.png");
+    background-image: url("https://github.com/shaikamaan4126stack/YOGAWEBPAGE/blob/main/kid's%20yoga.png?raw=true");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
