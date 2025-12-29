@@ -222,10 +222,10 @@ body{
 <header class="header">
     <h1 class="pure-yoga">PureYoga</h1>
     <div class="links">
-        <a class="menu-links" href="#section1">Home</a>
-        <a class="menu-links" href="#benefits-title">Benefits</a>
-        <a class="menu-links" href="#classes-title">Classes</a>
-        <a class="menu-links" href="#trainers-title">Trainers</a>
+        <a class="menu-links" href=".section1">Home</a>
+        <a class="menu-links" href=".benefits-title">Benefits</a>
+        <a class="menu-links" href=".classes-title">Classes</a>
+        <a class="menu-links" href=".trainers-title">Trainers</a>
     </div>
 </header>
 
